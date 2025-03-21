@@ -1,0 +1,24 @@
+2025-02-12 16:55:01,766 - __main__ - ERROR - Sensor initialization failed: type object 'ADC' has no attribute 'ATTN_11DB'
+2025-02-12 16:55:01,773 - __main__ - CRITICAL - Gagal menjalankan sensor handler: type object 'ADC' has no attribute 'ATTN_11DB'
+2025-02-12 16:57:14,995 - __main__ - INFO - Sensor initialization successful
+2025-02-12 16:57:14,995 - __main__ - INFO - Memulai sensor handler dengan interval 30 detik
+2025-02-12 16:57:14,996 - __main__ - WARNING - Invalid co2 value: 8286586.53
+2025-02-12 16:57:14,996 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 16:57:44,997 - __main__ - WARNING - Invalid co2 value: 15791.0
+2025-02-12 16:57:44,997 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 16:58:14,998 - __main__ - WARNING - Invalid co2 value: 69956.08
+2025-02-12 16:58:14,998 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 16:58:45,001 - __main__ - WARNING - Invalid co2 value: 21691385.52
+2025-02-12 16:58:45,002 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 16:59:15,003 - __main__ - WARNING - Invalid co value: 129.44
+2025-02-12 16:59:15,004 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 16:59:45,004 - __main__ - WARNING - Invalid co2 value: 2049775.75
+2025-02-12 16:59:45,005 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 17:00:15,006 - __main__ - WARNING - Invalid co2 value: 37479.63
+2025-02-12 17:00:15,006 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 17:00:45,008 - __main__ - WARNING - Invalid co2 value: 716600.56
+2025-02-12 17:00:45,009 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 17:01:15,009 - __main__ - WARNING - Invalid co2 value: 33803559.98
+2025-02-12 17:01:15,009 - __main__ - WARNING - Data sensor tidak valid
+2025-02-12 17:01:22,478 - __main__ - INFO - Sensor handler dihentikan
+2025-02-12 17:01:22,478 - __main__ - INFO - Membersihkan sumber daya sensor

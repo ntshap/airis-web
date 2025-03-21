@@ -1,0 +1,7 @@
+adafruit-circuitpython-dht==3.7.12
+RPi.GPIO==0.7.1
+requests==2.31.0
+python-dotenv==1.0.0
+paho-mqtt==1.6.1
+mq135-gpio==1.0.1
+gp2y1014au0f==1.0.0
